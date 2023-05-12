@@ -1,0 +1,107 @@
+
+.container{
+   max-width: 1150px;
+   margin: 0 auto;
+}
+.container{
+   display: flex;
+   margin-bottom: 150px;
+}
+
+.menu__block .container{
+   margin-bottom: 20px;
+}
+p{
+   font-size: 22px;
+   margin-bottom: 10px;
+}
+.menu__block .logo img{
+max-height: 50px;
+}
+.menu__block .logo{
+   width: 50%;
+}
+
+.menu__block .menu{
+   float: right;
+}
+
+.menu__block .menu a{
+   font-size: 24px;
+   margin: 22px;
+}
+.home__banner{
+   height: auto;
+   background: #ccc;
+   width: 100%;
+   text-align: center;
+   padding-top: 30px;
+}
+.home__banner h1{
+   font-size: 45px;
+}
+.w-100{
+   width: 100%;
+}
+.home__banner p{
+   width: 70%;
+   margin: 0 auto;
+}
+.btn{
+margin: 20px 0 30px 0;
+background: orangered;
+padding: 15px 35px;
+color: white;
+border-radius: 5px;
+    border: none;
+    font-size: 26px;
+}
+.block1{
+   display: flex;
+}
+.left{
+   width: 50%;
+   padding-right: 15px;
+}
+.half{
+   width: 50%;
+   float: left;
+}
+.block1 .left .half img{
+margin: 0px;
+border: 3px solid #fff;
+}
+.right{
+   width: 50%;
+}
+.w-25{
+   width: 15%;
+}
+.block2{
+   float: left;
+   text-align: center;
+   border: 1px solid orange;
+   padding: 35px 15px;
+   border-radius: 8px;
+   margin-right: 65px;
+}
+.block__heading{
+   margin-bottom: 20px;
+}
+.sponsors .block__heading{
+   text-align: center;
+}
+.w-20{
+   width: 20%;
+}
+
+.sponsors__item{
+   display: flex;
+}
+footer{
+   text-align: center;
+   display: flex;
+   background-color: #ffcfcf;
+   height: 69px;
+}
+
